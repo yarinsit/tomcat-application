@@ -12,7 +12,7 @@
   </form>
  
   <%
- tttt authors = request.getParameterValues("author");
+ String[] authors = request.getParameterValues("author");
   if (authors != null) {
   %>
     <h3>You have selected author(s):</h3>
