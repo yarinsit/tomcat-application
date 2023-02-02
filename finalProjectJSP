@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html"%>
+<%@ page import="java.text.*,java.util.*" %>
+<HTML>
+<HEAD>
+<TITLE>My Picture</TITLE>
+</HEAD>
+<BODY BGCOLOR="CC00CC">
+<CENTER>
+<H2>My Picture</HH2H>
+<p>This is a photo from 2020 ! ".</p>
+<img src="" width = "1500" height = "800" alt= ""/>
+</CENTER>
+</BODY>
+</HTML>
