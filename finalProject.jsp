@@ -7,7 +7,6 @@
 <BODY BGCOLOR="CC00CC">
 <CENTER>
 <H2>My Picture</HH2H>
-<p>This is a photo from 2020 ! ".</p>
 <img src="sunset.jpg" width = "1500" height = "800" alt= ""/>
 </CENTER>
 </BODY>
