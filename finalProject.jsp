@@ -2,7 +2,7 @@
 <%@ page import="java.text.*,java.util.*" %>
 <HTML>
 <HEAD>
-<TITLE>My Picture</TITLE>
+<TITLE>My Picture!!</TITLE>
 </HEAD>
 <BODY BGCOLOR="CC00CC">
 <CENTER>
